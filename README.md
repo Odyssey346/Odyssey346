@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# - 🔭 I’m currently working on ...
+## - 🔭 I’m currently working on ...
 Cytrus-RE's Website and some things in the bots code
 https://cytrus-re-.github.io
 
