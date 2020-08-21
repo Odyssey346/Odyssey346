@@ -1,3 +1,5 @@
+![Idea](https://github.com/Oxygemo/Oxygemo/blob/master/asd.png)
+
 ### Hi there 👋
 
 ## - 🔭 I’m currently working on ...
