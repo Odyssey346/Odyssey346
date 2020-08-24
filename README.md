@@ -3,8 +3,7 @@
 ### Hi there 👋
 
 ## - 🔭 I’m currently working on ...
-Cytrus-RE's Website and some things in the bots code
-https://cytrus-re.github.io
+A few things. I used to work on Cytrus-RE but I quit. Sorry rexo but your bot is shit. I have some projects planned out but I just do not know where to start.
 
 
 <!--
