@@ -1,9 +1,9 @@
-![Idea](https://github.com/Oxygemo/Oxygemo/blob/master/asd.png)
+![banner_art](https://github.com/Oxygemo/Oxygemo/blob/master/asd.png)
 
 ### Hi there 👋
 
 ## - 🔭 I’m currently working on ...
-A few things. I used to work on Cytrus-RE but I quit. Sorry rexo but your bot is shit. I have some projects planned out but I just do not know where to start.
+A few things. I work on Cytrus-RE for the moment. I have some projects planned out but I just do not know where to start.
 
 
 <!--
