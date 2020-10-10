@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ## - 🔭 I’m currently working on ...
-A few things. I work on Cytrus-RE for the moment. I have some projects planned out but I just do not know where to start.
+I work on Pie, which is as of now a private project. im also gonna work on a ninite for Linux thing.
 
 
 <!--
