@@ -4,8 +4,6 @@
 
 ## Bio
 I'm norwegian, and I use Linux and Windows 10 Education. I like coding, messing about with computers and also playing CS:GO and TF2.
-I'm also trans, my pronouns are she/her. 
-
 
 ## - 🔭 I’m currently working on ...
 I work on Pie, which is as of now a private project. im also gonna work on a ninite for Linux thing.
