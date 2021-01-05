@@ -2,8 +2,17 @@
 
 ### Hi there 👋
 
+he/him
+
 ## Bio
 I'm norwegian, and I use Linux and Windows 10 Education. I like coding, messing about with computers and also playing CS:GO and TF2.
+
+# Tech I use
+![Tumbleweed](https://img.shields.io/static/v1?label=openSUSE&message=Tumbleweed&style=for-the-badge&color=73BA25&logo=openSUSE)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=Insider&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=Oxygemo&color=181717&style=for-the-badge&logo=github)
+![Windows 10](https://img.shields.io/static/v1?label=Windows%2010&message=20H2&style=for-the-badge&color=0078D6&logo=Windows)
+![Firefox](https://www.shields.io/badge/Firefox-Stable-FF9500?logo=firefox&style=for-the-badge)
 
 ## - 🔭 I’m currently working on ...
 I work on ![Fixdows](https://github.com/terrific-tea/Fixdows). It fixes Windows installations and stuff. Check it out!
