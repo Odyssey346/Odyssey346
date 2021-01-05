@@ -6,7 +6,7 @@
 I'm norwegian, and I use Linux and Windows 10 Education. I like coding, messing about with computers and also playing CS:GO and TF2.
 
 ## - 🔭 I’m currently working on ...
-I work on Pie, which is as of now a private project. im also gonna work on a ninite for Linux thing.
+I work on ![Fixdows](https://github.com/terrific-tea/Fixdows). It fixes Windows installations and stuff. Check it out!
 
 
 <!--
