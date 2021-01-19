@@ -1,4 +1,6 @@
-![banner_art](https://github.com/Oxygemo/Oxygemo/blob/master/asd.png)
+![banner_art](https://github.com/Oxygemo/Oxygemo/blob/master/kool.png)
+
+(No, that's not a Mac. It's just a tweaked [KDE](https://kde.org) Plasma running on [OpenSUSE](https://opensuse.org).)
 
 ### Hi there 👋
 
