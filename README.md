@@ -17,7 +17,7 @@ I'm norwegian, and I use Linux and Windows 10 Education. I like coding, messing 
 ![Firefox](https://www.shields.io/badge/Firefox-Stable-FF9500?logo=firefox&style=for-the-badge)
 
 ## - 🔭 I’m currently working on ...
-I work on ![Fixdows](https://github.com/terrific-tea/Fixdows). It fixes Windows installations and stuff. Check it out!
+I work on ![Fixdows](https://github.com/Oxygemo/Fixdows). It fixes Windows installations and stuff. Check it out!
 
 
 <!--
