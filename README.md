@@ -1,5 +1,6 @@
 ![banner_art](https://github.com/Odyssey346/Odyssey346/blob/master/reallykool.png)
 
+
 (You really should check out [OpenSUSE](https://opensuse.org).)
 
 ### Hi there 👋
@@ -34,3 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
+![lol](https://github.com/Odyssey346/Odyssey346/blob/master/profilepicture.webp)
