@@ -21,6 +21,11 @@ I'm norwegian, and I use Linux and Windows 10 Education. I like coding, messing 
 I work on ![Fixdows](https://github.com/Oxygemo/Fixdows). It fixes Windows installations and stuff. Check it out!
 
 
+## Stats, Stats, Stats!
+<img src="https://github-readme-stats.vercel.app/api?username=Odyssey346&bg_color=40,9E1476,fB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Odyssey346&bg_color=40,9E1476,FB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4"/>
+
 <!--
 **Oxygemo/Oxygemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
