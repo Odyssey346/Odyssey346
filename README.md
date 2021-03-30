@@ -15,7 +15,7 @@ I'm norwegian, and I use Linux and Windows 10 Education. I like coding, messing 
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.52.1&style=for-the-badge&color=0000FF&logo=Visual-Studio-Code)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=Odyssey346&color=181717&style=for-the-badge&logo=github)
 ![Windows 10](https://img.shields.io/static/v1?label=Windows%2010&message=20H2&style=for-the-badge&color=0078D6&logo=Windows)
-![Firefox](https://www.shields.io/badge/Firefox-Stable-FF9500?logo=firefox&style=for-the-badge)
+![Vivaldi](https://www.shields.io/badge/Vivaldi-Stable-FF9500?logo=Vivaldi&style=for-the-badge&color=FF4A51)
 
 ## - 🔭 I’m currently working on ...
 I work on ![Fixdows](https://github.com/Oxygemo/Fixdows). It fixes Windows installations and stuff. Check it out!
