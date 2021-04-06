@@ -5,10 +5,14 @@
 
 ### Hi there 👋
 
-he/him
-
 ## Bio
-I'm norwegian, and I use Linux and Windows 10 Education. I like coding, messing about with computers and also playing CS:GO and TF2.
+I'm norwegian, and I use Linux and Windows 10 Education. I like coding, messing around with computers and also playing CS:GO and TF2.
+
+## favorite languages
+My favourite languages are: Go (not experienced), C# (a bit experienced) and just general web languages aswell.
+
+## Social Medias
+[![Mastodon](https://img.shields.io/mastodon/follow/69254?domain=https%3A%2F%2Fmastodon.online&color=3088d4&style=for-the-badge)](https://mastodon.online/@Odyssey346)]
 
 # Tech I use
 ![Tumbleweed](https://img.shields.io/static/v1?label=openSUSE&message=Tumbleweed&style=for-the-badge&color=73BA25&logo=openSUSE)
@@ -16,6 +20,7 @@ I'm norwegian, and I use Linux and Windows 10 Education. I like coding, messing 
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=Odyssey346&color=181717&style=for-the-badge&logo=github)
 ![Windows 10](https://img.shields.io/static/v1?label=Windows%2010&message=20H2&style=for-the-badge&color=0078D6&logo=Windows)
 ![Firefox](https://www.shields.io/badge/Firefox-Stable-FF9500?logo=firefox&style=for-the-badge)
+
 
 ## - 🔭 I’m currently working on ...
 I work on ![Fixdows](https://github.com/Oxygemo/Fixdows). It fixes Windows installations and stuff. Check it out!
