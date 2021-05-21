@@ -23,6 +23,8 @@ My favourite languages are: Go (not experienced), C# (a bit experienced) and jus
 ## I’m currently working on
 I work on ![Fixdows](https://github.com/Oxygemo/Fixdows). It fixes Windows installations and stuff. Check it out!
 
+I have also contributed to Firefox, DogeHouse (RIP) and more.
+
 
 ## Stats, Stats, Stats!
 <img src="https://github-readme-stats.vercel.app/api?username=Odyssey346&bg_color=40,9E1476,fB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4" />
