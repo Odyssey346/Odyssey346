@@ -7,13 +7,12 @@
 I'm Norwegian, and I use openSUSE and Windows 10 Education. I like coding, messing around with computers and also playing CS:GO and TF2.
 
 ## Favourite languages
-My favourite languages are: Go (not experienced), C# (a bit experienced) and just general web languages as well.
+My favourite languages are: Go (not experienced), C# (a bit experienced) and just general web languages as well. Rust is really nice as well.
 
 ## Social Media
 [![Mastodon](https://img.shields.io/mastodon/follow/69254?domain=https%3A%2F%2Fmastodon.online&color=3088d4&style=for-the-badge)](https://mastodon.online/@Odyssey346)
 
 ## Tech I use
-![Tumbleweed](https://img.shields.io/static/v1?label=openSUSE&message=Tumbleweed&style=for-the-badge&color=73BA25&logo=openSUSE)
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=stable&style=for-the-badge&color=0078D6&logo=Visual-Studio-Code)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=Odyssey346&color=181717&style=for-the-badge&logo=github)
 ![Windows 10](https://img.shields.io/static/v1?label=Windows%2010&message=21H1&style=for-the-badge&color=0078D6&logo=Windows)
