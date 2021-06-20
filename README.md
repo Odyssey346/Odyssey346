@@ -1,10 +1,8 @@
 ![banner_art](https://github.com/Odyssey346/Odyssey346/blob/master/reallykool.png)
 
 
-(You really should check out [openSUSE](https://opensuse.org).)
-
 ## Bio
-I'm Norwegian, and I use openSUSE and Windows 10 Education. I like coding, messing around with computers and also playing CS:GO and TF2.
+I'm Norwegian, and I use Arch Linux and Windows 10 Education. I like coding, messing around with computers and also playing CS:GO and TF2.
 
 ## Favourite languages
 My favourite languages are: Go (not experienced), C# (a bit experienced) and just general web languages as well. Rust is really nice as well.
