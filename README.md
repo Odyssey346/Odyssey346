@@ -1,4 +1,4 @@
-![banner_art](https://github.com/Odyssey346/Odyssey346/blob/master/reallykool.png)
+![banner_art](https://github.com/Odyssey346/Odyssey346/blob/master/Screenshot_20210620_205705.png)
 
 
 ## Bio
